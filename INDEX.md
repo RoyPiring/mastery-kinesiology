@@ -9,4 +9,4 @@ Kinesiology & Human Movement engineered as a run of hands-on end-to-end builds t
 | # | System | Onboarded | Last updated | What it does |
 |--:|---|---|---|---|
 
-_No systems onboarded yet. Target: 100. The catalog of candidate builds lives in [`ideas/`](./ideas/)._
+_No systems onboarded yet. Target: 100._
