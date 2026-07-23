@@ -8,7 +8,7 @@ I'm learning kinesiology and human movement the way it actually sticks: building
 
 ## Featured Systems
 
-The builds that best show the field will sit here as they land. The first ones are on the way.
+The builds that best show the field will sit here as they land.
 
 ## What it covers
 
@@ -16,10 +16,6 @@ Biomechanics modeling (OpenSim, OpenCap), wearable and movement analytics, and m
 
 **What it isn't.** Not a degree, and no claim past what each build proves. Any testing on a real person needs PAR-Q+ pre-participation screening and qualified supervision, and a certification is a credential, not a license to practice. Not medical advice.
 
-## Progress
+## The road to 100
 
-| Field | Value |
-|-------|-------|
-| Status | 0 / 100 committed |
-
-Start at rank 1 in `ideas/mastery-kinesiology-100/mastery-kinesiology-100.md`. Full catalog: [`INDEX.md`](./INDEX.md).
+**Just getting started, 100 to go.** The first systems are on the way. Each one lands in the catalog with its own architecture, a walkthrough, and a self-check: **[browse the catalog in `INDEX.md`](./INDEX.md)**.
